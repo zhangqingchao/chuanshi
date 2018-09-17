@@ -1,54 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Unity-iPhone.ipa</key>
-	<array>
-		<dict>
-			<key>architectures</key>
-			<array>
-				<string>armv7</string>
-				<string>arm64</string>
-			</array>
-			<key>certificate</key>
-			<dict>
-				<key>SHA1</key>
-				<string>0A9926744FFFB6CFEE60EDC1445D20B29ED21538</string>
-				<key>dateExpires</key>
-				<string>2019/8/29</string>
-				<key>type</key>
-				<string>iOS Distribution</string>
-			</dict>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>KZQATGW8CV.com.gzcsqp.chuanshiyl</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>KZQATGW8CV</string>
-				<key>get-task-allow</key>
-				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>KZQATGW8CV.com.gzcsqp.chuanshiyl</string>
-				</array>
-			</dict>
-			<key>name</key>
-			<string>chuanshiyl.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>62b1bdd8-d601-47aa-841c-8cd8a4d25e7b</string>
-				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.gzcsqp.chuanshiyl</string>
-			</dict>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>KZQATGW8CV</string>
-				<key>name</key>
-				<string>fan yao</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-</plist>
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>items</key>  
+    <array>  
+        <dict>  
+            <key>assets</key>  
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>https://github.com/zhangqingchao/chuanshi/blob/master/Unity-iPhone.ipa</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>full-size-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKha5GKfIcfOMBAFRImlgalBXU8JYzA1bTRSMN871R6R6NWnPjlHrjpUWUamPFyuvicLwVwdiaEibicZA/132</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>display-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKha5GKfIcfOMBAFRImlgalBXU8JYzA1bTRSMN871R6R6NWnPjlHrjpUWUamPFyuvicLwVwdiaEibicZA/132</string>  
+                </dict>  
+            </array>  
+            <key>metadata</key>  
+            <dict>  
+                <key>bundle-identifier</key>  
+                <string>com.gzcsqp.chuanshiyl</string>  
+                <key>bundle-version</key>  
+                <string>1.0</string>  
+                <key>kind</key>  
+                <string>software</string>  
+                <key>title</key>  
+                <string>传世娱乐</string>  
+            </dict>  
+        </dict>  
+    </array>  
+</dict>  
+</plist>  
